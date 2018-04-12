@@ -22,6 +22,9 @@ python pyblock.py
 10: filter for some blocks better then 0
 20: most highest difficulty level
 ```
+# screen shots
+
+<img src="py_block_example.png" alt="screen shot" />
 
 # Developers and contributors 
 
