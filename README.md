@@ -17,7 +17,7 @@ pip install Huepy
 ```
 python pyblock.py
 ```
-# difficulties level are 0, 10 , 20
+# difficulty levels are 0, 10 , 20
 ```
 0 : select all blocks
 10: filter for some blocks better then 0
