@@ -4,6 +4,7 @@ Basic Block-chain + mining concept using python
 # Required
 + Python 3.x
 + Huepy
++ hashlib
 
 # Setting Up Pyblock
 
