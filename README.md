@@ -30,5 +30,4 @@ python pyblock.py
 # Developers and contributors 
 
 <a href="https://github.com/howCodeORG/">howCodeOrg</a>
-<a href="https://github.com/bhattsameer">debugger</a>
 
